@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstname": "Joaquín",
+      "lastname": "Valdés"
+    },
+    {
+      "id": 2,
+      "firstname": "Oliver",
+      "lastname": "Queen"
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "name": "segmento 1",
+      "companies": [
+        {
+          "id": 1,
+          "name": "negocio 1"
+        },
+        {
+          "id": 2,
+          "name": "negocio 2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "segmento 2",
+      "companies": [
+        {
+          "id": 1,
+          "name": "negocio 3"
+        },
+        {
+          "id": 2,
+          "name": "negocio 4"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "1212",
+      "name": "product 1"
+    },
+    {
+      "id": 2,
+      "code": "1213",
+      "name": "product 2"
+    }
+  ],
+  "services": [
+    {
+        "id": 1,
+        "name": "serv 1"
+      },
+      {
+        "id": 2,
+        "name": "serv 2"
+      } 
+  ],
+  "companies": [
+    {
+        "id": 1,
+        "name": "Negocio 1"
+      },
+      {
+        "id": 2,
+        "name": "Negocio 2"
+      } 
+  ]
+}
